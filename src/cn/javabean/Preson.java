@@ -1,4 +1,4 @@
-package cn;
+package cn.javabean;
 
 public class Preson {
     private String name;

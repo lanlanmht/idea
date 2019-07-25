@@ -1,10 +1,10 @@
-package cn;
+package cn.javabean;
 
-public class test1 {
+public class Andios {
     private Preson teaXu;
     private Preson stu;
 
-    public test1(Preson teaXu, Preson stu, String location) {
+    public Andios(Preson teaXu, Preson stu, String location) {
         this.teaXu = teaXu;
         this.stu = stu;
         this.location = location;
@@ -34,7 +34,7 @@ public class test1 {
         this.location = location;
     }
 
-    public test1() {
+    public Andios() {
 
     }
 
